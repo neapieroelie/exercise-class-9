@@ -89,6 +89,6 @@ var schedule = [
 
 console.table(schedule);
 
-var sentence = `I am taking ${sentence[0][2]}, ${sentence[1][2]}, that is worth ${sentence[2][2]}`;
+var schedule = `I am taking ${schedule[2][0]}, ${schedule[2][1]} that is worth ${schedule[2][2]}`;
 
-console.log(sentence);
+console.log(schedule);
